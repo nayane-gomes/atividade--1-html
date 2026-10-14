@@ -15,5 +15,4 @@ Tecnologias utilizadas
 
 Evidência da atividade
 
-"Evidência do DevTools" (evidencia-devtools.png)# atividade- 1-html
-Minha primeira página HTML - Atividade 1 do curso Técnico em informática para internet
+ ![Evidência do DevTools](evidencia-devtools.png)
